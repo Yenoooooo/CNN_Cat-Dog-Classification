@@ -24,7 +24,7 @@ Cat-Dog-Classification/
 四、使用说明
 
 1. 数据集说明
-采用公开Kaggle Cats and Dogs猫狗图像数据集。
+采用公开Kaggle Cats and Dogs猫狗图像数据集，本项目使用了其中猫、狗图像各5000张进行模型训练。
 1. 准备猫狗分类图像数据集，按类别分别放入 `CatDogs/cat` 和 `CatDogs/dog` 两个子文件夹中，文件夹名称将自动作为样本标签
 2. 支持 jpg、png 等常见图像格式，无需预先统一尺寸，代码会自动将图像缩放至网络输入尺寸
 
